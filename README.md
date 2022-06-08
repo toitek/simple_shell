@@ -9,6 +9,6 @@ This is a simple UNIX command interpreter based on bash and Sh.
 ## Authors & Copyrights
 
 * GEORGE OYOYO 
-*SYLVESTER NGANGA <[edward0rtiz](https://github.com/edward0rtiz)>
+*SYLVESTER NGANGA 
 
 
