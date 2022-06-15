@@ -195,8 +195,7 @@ int cmd_exec(data_shell *datash)
 	}
 	else
 	{
-		do
-		{
+		do {
 			wpd = waitpid(pd, &state, WUNTRACED);
 		} while (!WIFEXITED(state) && !WIFSIGNALED(state));
 	}
