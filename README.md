@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Shell
 > In this project we code a simple shell using the knowledge from all the topics that have been covered while learning C programming.
 
@@ -66,8 +67,19 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
+=======
+# Simple Shell project 0x16.c 
+
+This is a simple UNIX command interpreter based on bash and Sh.
+>>>>>>> 80cf890 (betty error fix)
 
 ## Authors & Copyrights
 
 * GEORGE OYOYO 
+<<<<<<< HEAD
 *SYLVESTER NGANGA 
+=======
+*SYLVESTER NGANGA
+
+
+>>>>>>> 80cf890 (betty error fix)
